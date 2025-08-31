@@ -1,6 +1,13 @@
+📦 **Group Information**
+
+- Works across all repositories — system evolves in parallel.  
+- Terms → see **[Autarchic-Lexicon](../Autarchic-Lexicon)**.  
+- Origins → see **[Epistemic-Autarchy](../Epistemic-Autarchy)**.  
+- Each repo = one node in a wider lattice.  
+---
+
 # Epistemic-Autarchy
 
-## Overview
 The **Epistemic Autarchy System (EAS)** is the root discipline for sovereign cognition and structural system design.  
 It defines a **full-stack cognitive architecture** for operating across multiple epistemic contexts without distortion.  
 
