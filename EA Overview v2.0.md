@@ -1,47 +1,48 @@
-# Epistemic Autarchy (EA)  
-**Version: 2025-09-15 (v2.0)**  
+# Epistemic Autarchy (EA) – Overview v2.0
+**Version:** 2025-09-15
 
-## 📖 Overview  
-**Epistemic Autarchy (EA)** is the **adaptive framework** developed to operate in conditions of **Comprehensive Anchor Failure (CAF)**.  
 
-- CAF defines the collapse of stabilizing anchors.  
-- EA describes how clarity and survival logic can still be generated without external or stable supports.  
+## Definition
+**Epistemic Autarchy (EA)** is a living epistemic framework designed to preserve clarity, autonomy, and structural consistency under conditions of distortion.  
 
-EA is **not therapy** or coping.  
-It is a **structural survival engine** that reorganizes cognition when anchors of survival, trust, dignity, and belonging are absent or inverted.  
+Developed out of insights from **Comprehensive Anchor Failure (CAF)** — a boundary condition — EA extends beyond survival into the design of epistemic structures that remain generative and adaptive. 
 
----
-
-## ⚙️ Core Principles  
-- **Autarchy** → self-rule of cognition; clarity is generated internally, not borrowed from compromised anchors.  
-- **Containment & Gating** → signals are filtered to prevent collapse, rather than absorbed uncritically.  
-- **Refusal of Collapse** → when anchors fail, collapse is rejected; instead, systems of abstraction are built.  
-- **Knowledge via Boundary-Conditions** → absence itself becomes a productive site for generating frameworks.  
+[Comprehensive Anchor Failure](https://github.com/elinchenresearch/Comprehensive-Anchor-Failure-CAF)
 
 ---
 
-## 🧩 Key Components  
-- **Signal Gating** → containment of disruptive input.  
-- **Structural Karma** → tracing loops of causality and inversion across anchors.  
-- **Theorein** → dynamic theorems that hold under shifting conditions.  
-- **Wager-as-Process Engine (WPE)** → continuous refusal of collapse turned into a generative process for knowledge and survival.  
+## Purpose
+- Provide a structural model for how knowledge can survive in unstable or distorted environments.  
+- Build tools that maintain clarity (e.g., signal gating, tension release, routing).  
+- Serve as a generative system: producing new logics, frameworks, and survival architectures.  
 
 ---
 
-## 🔄 Distinctions  
-- **From CAF** → CAF maps failure; EA builds adaptation.  
-- **From Therapy** → EA is not repair or healing, but structural reorganization.  
-- **From Diagnosis** → EA does not reduce to PTSD, ADHD, or autism (though traits overlap). It is a **system-level adaptation**, not a disorder.  
+## Position
+- EA is **not a diagnostic or therapeutic model**.  
+- It functions as an **epistemic architecture** — a way of structuring how clarity and survival interact.  
+- It is a **living system**: continuously updated, versioned, and tested across contexts.  
 
 ---
 
-## 🚧 Applications (Speculative)  
-- **Individual** → stabilizing micro-collapse states through abstraction.  
-- **Research** → generating upstream frameworks (CAF, Structural Karma, Theorein).  
-- **Culture** → modeling how societies maintain clarity when anchors collapse collectively.  
+## Core Architecture (6 Layers)
+1. **Autarchic Self-Engine** – Internal driver of survival and clarity.  
+2. **Mental Sovereignty** – Boundary integrity, non-fusion clarity.  
+3. **Signal Gating** – Filtering, containment, routing of epistemic signals.  
+4. **Routing & Action** – Mapping signals into action and feedback loops.  
+5. **Tension Release** – Rebalancing through loop closure and throttling.  
+6. **Adaptation & Feedback** – Mutation governance and long-arc calibration.  
 
 ---
 
-## 🗂 Position in Research System  
-- **CAF → EA** → CAF defines collapse; EA is the adaptive survival engine that follows.  
-- **EA → Downstream Tools** → Signal Gating, Structural Karma, Theorein, and WPE emerge within EA as specialized mechanisms.  
+## Update: Wager-as-Process Engine (WPE)
+- **What it is**: WPE reframes the Autarchic Self-Engine not as a static “core” but as a continuous process of refusing collapse.  
+- **How it works**: Instead of relying on fixed anchors, WPE operates as a wager — a constant recommitment to epistemic clarity, even when collapse feels inevitable.  
+- **Why it matters**: This shift turns EA from a survival structure into a survival engine that generates clarity through ongoing movement, not stability alone.  
+- **Function in EA**: WPE underpins all six layers, ensuring the system adapts dynamically rather than freezing into rigidity.  
+
+---
+
+## Reading Note
+EA should be read as a **research framework**.  
+It is **not psychology or therapy**, but an **epistemic architecture** for clarity under distortion.  
