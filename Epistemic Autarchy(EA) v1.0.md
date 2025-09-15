@@ -1,4 +1,6 @@
 # Epistemic-Autarchy
+**Version: 2025-09-01 (v2.0)** 
+
 
 The **Epistemic Autarchy System (EAS)** is the root discipline for sovereign cognition and structural system design.  
 It defines a **full-stack cognitive architecture** for operating across multiple epistemic contexts without distortion.  
